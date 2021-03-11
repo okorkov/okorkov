@@ -16,3 +16,4 @@ Fine dine is a restaurant reservation system biult entirely on Ruby on Rails Fra
 A social network that built with ruby on Sinatra Framework. Bulma CSS used for styling and self-joined table of ActiveRecord to manage friendship in the app.
 
 
+![](./language.html)
