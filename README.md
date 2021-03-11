@@ -15,3 +15,7 @@ Fine dine is a restaurant reservation system biult entirely on Ruby on Rails Fra
 #### 💻 Social Network [GitHub Repo](https://github.com/okorkov/social_network) | [Deployed Version](https://socialnetworksinatra.herokuapp.com/) 
 A social network that built with ruby on Sinatra Framework. Bulma CSS used for styling and self-joined table of ActiveRecord to manage friendship in the app.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okorkov&layout=compact&theme=radical)
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okorkov&show_icons=true&theme=radical) -->
+
