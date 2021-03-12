@@ -2,7 +2,7 @@
 
 Full Stack web developer, Flatiron graduate. Former Bar Director with Michelin standards. Bechalor in liberal arts.
 
-Great problem solver that thrives on challenges.
+Great problem solver who thrives on challenges.
 
 ### Projects:
 
