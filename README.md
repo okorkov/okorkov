@@ -4,6 +4,8 @@ Full Stack web developer, Flatiron graduate. Former Bar Director with Michelin s
 
 Great problem solver who thrives on challenges.
 
+[![website](https://img.shields.io/badge/-website-yellow)](https://www.aokarkau.com)
+
 ### Projects:
 
 #### 🎮 Game stack [GitHub Repo](https://github.com/okorkov/game-stack) | [Deployed Version](https://game-stack.herokuapp.com/) 
