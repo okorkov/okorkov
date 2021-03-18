@@ -5,7 +5,7 @@ Full Stack web developer, Flatiron graduate. Former Bar Director with Michelin s
 Great problem solver who thrives on challenges.
 
  <p align="center"> 
-    <a href="https://www.aokarkau.com" target="_blank"><img src="https://img.shields.io/badge/-personal%20website-yellow" alt="alternate text"></a>
+    <a href="https://www.aokarkau.com" target="_blank"><img src="https://img.shields.io/badge/-personal%20website-yellow" alt="aokarkau.com"></a>
  </p>
 
 ### Projects:
@@ -20,8 +20,10 @@ Fine dine is a restaurant reservation system biult entirely on Ruby on Rails Fra
 A social network that built with ruby on Sinatra Framework. Bulma CSS used for styling and self-joined table of ActiveRecord to manage friendship in the app.
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okorkov&show_icons=true&theme=radical) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okorkov&layout=compact&theme=radical)
-
+ <p align="center"> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okorkov&layout=compact&theme=radical" alt="top languages">
+ </p>
+ 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
