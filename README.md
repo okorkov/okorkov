@@ -5,7 +5,7 @@ Full Stack web developer, Flatiron graduate. Former Bar Director with Michelin s
 Great problem solver who thrives on challenges.
 
  <p align="center"> 
-    <a href="https://www.aokarkau.com" target="_blank"><img src="https://img.shields.io/badge/-personal%20website-yellow" alt="aokarkau.com"></a>
+    <a href="https://www.aokarkau.com" "><img src="https://img.shields.io/badge/-personal%20website-yellow" alt="aokarkau.com"></a>
  </p>
 
 ### Projects:
@@ -37,9 +37,18 @@ A social network that built with ruby on Sinatra Framework. Bulma CSS used for s
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 
-### Let's Get in Touch 📬:
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aokarkau/)
+ <h3 align="center"> 
+  Let's Get in Touch 📬:
+  </h3>
+  
+  <h3 align="center"> 
+  <a href="https://www.linkedin.com/in/aokarkau/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
+ <a href="https://www.instagram.com/okorkov/" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a>
+ <a href="https://www.facebook.com/alexandr.okorkov" ><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"></a>
+ <a href="https://alex-okorkov.medium.com/" ><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"></a>
+  </h3>
+<!-- [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aokarkau/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/okorkov/)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alexandr.okorkov)
-[![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://alex-okorkov.medium.com/)
+[![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://alex-okorkov.medium.com/) -->
 
