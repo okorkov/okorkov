@@ -1,6 +1,6 @@
 # Hi there 👋 my name is Alex!
 
-Full Stack web developer, Flatiron graduate. Former Bar Director with Michelin standards. Bechalor in liberal arts.
+Full Stack web developer, Flatiron graduate. Former Bar Director with Michelin standards. Bachelor in liberal arts.
 
 Great problem solver who thrives on challenges.
 
