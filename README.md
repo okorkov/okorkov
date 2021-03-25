@@ -21,7 +21,7 @@ A social network that built with ruby on Sinatra Framework. Bulma CSS used for s
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okorkov&show_icons=true&theme=radical) -->
  <p align="center"> 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okorkov&layout=compact&theme=merko" alt="top languages">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okorkov&layout=compact&theme=highcontrast" alt="top languages">
  </p>
  
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
@@ -55,3 +55,9 @@ A social network that built with ruby on Sinatra Framework. Bulma CSS used for s
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alexandr.okorkov)
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://alex-okorkov.medium.com/) -->
 
+Pinned:
+
+&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=okorkov&repo=game-stack&theme=highcontrast)](https://github.com/okorkov/game-stack) &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=okorkov&repo=fine-dine&theme=highcontrast)](https://github.com/okorkov/fine-dine)
+
+&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=okorkov&repo=social_network&theme=highcontrast)](https://github.com/okorkov/social_network)
