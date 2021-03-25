@@ -57,7 +57,7 @@ A social network that built with ruby on Sinatra Framework. Bulma CSS used for s
 
 Pinned:
 
-&nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=okorkov&repo=game-stack&theme=highcontrast)](https://github.com/okorkov/game-stack) &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=okorkov&repo=game-stack&theme=highcontrast)](https://github.com/okorkov/game-stack) &nbsp; &nbsp; &nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=okorkov&repo=fine-dine&theme=highcontrast)](https://github.com/okorkov/fine-dine)
 
-&nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=okorkov&repo=social_network&theme=highcontrast)](https://github.com/okorkov/social_network)
+&nbsp; &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=okorkov&repo=social_network&theme=highcontrast)](https://github.com/okorkov/social_network)
