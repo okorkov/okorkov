@@ -25,9 +25,13 @@ A social network that built with ruby on Sinatra Framework. Bulma CSS used for s
  <a href="https://ionicabizau.github.io/github-profile-languages/api.html?okorkov"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okorkov&layout=compact&theme=highcontrast" alt="top languages"></a>
  </p>
  
-  <p align="center"> 
+
+ <p align="center"> 
  <img src="http://github-readme-streak-stats.herokuapp.com?user=okorkov&theme=highcontrast&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=okorkov&show_icons=true&count_private=true&theme=highcontrast">
  </p>
+
+
  
  
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
