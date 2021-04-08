@@ -10,6 +10,9 @@ Great problem solver who thrives on challenges.
 
 ### Projects:
 
+#### 🛒 Shop Easy [GitHub Repo](https://github.com/okorkov/shop-easy) | [Deployed Version](https://shop-easy-online.web.app/) 
+E-commerce SPA build with React front end and Rails backend. State managed by Redux, styled with Material-UI.
+
 #### 🎮 Game stack [GitHub Repo](https://github.com/okorkov/game-stack) | [Deployed Version](https://game-stack.herokuapp.com/) 
 A collection of Javascript games. Front end: Vanilla JS, HTML5(canvas), CSS(Bootstrap), Back end: Rails as an API.
 
