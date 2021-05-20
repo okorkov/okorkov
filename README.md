@@ -3,10 +3,11 @@
 Full Stack web developer, Flatiron graduate. Former Bar Director with Michelin standards. Bachelor of arts.
 
 Great problem solver who thrives on challenges.
-
+<!--
  <p align="center"> 
     <a href="https://www.aokarkau.com" "><img src="https://img.shields.io/badge/-personal%20website-yellow" alt="aokarkau.com"></a>
  </p>
+-->
 
 ### Projects:
 
