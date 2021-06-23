@@ -56,10 +56,14 @@ Great problem solver who thrives on challenges.
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alexandr.okorkov)
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://alex-okorkov.medium.com/) -->
 
-### Projects:
+## Projects:
+
+### Recent Projects:
 
 #### 🪚 Iron Horse Studio Website [GitHub Repo](https://github.com/okorkov/iron-horse) | [Website](https://ironhorsestudio.net/) 
 A website built for Iron Horse woodwork studio with React + Ruby on Rails (admin panel)
+
+### Flatiron School Projects:
 
 #### 🛒 Shop Easy [GitHub Repo](https://github.com/okorkov/shop-easy) | [Deployed Version](https://shop-easy-online.web.app/) 
 E-commerce SPA build with React front end and Rails backend. State managed by Redux, styled with Material-UI.
