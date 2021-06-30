@@ -59,12 +59,12 @@ Great problem solver who thrives on challenges.
 
 ## Projects:
 
-### Recent Projects:
+<h3 align="center">  Recent Projects: </h3>
 
 #### 🪚 Iron Horse Studio Website [GitHub Repo](https://github.com/okorkov/iron-horse) | [Website](https://ironhorsestudio.net/) 
 A website built for Iron Horse woodwork studio with React + Ruby on Rails (admin panel)
 
-### Flatiron School Projects:
+<h3 align="center"> Flatiron School Projects: </h3>
 
 #### 🛒 Shop Easy [GitHub Repo](https://github.com/okorkov/shop-easy) | [Deployed Version](https://shop-easy-online.web.app/) 
 E-commerce SPA build with React front end and Rails backend. State managed by Redux, styled with Material-UI.
