@@ -1,6 +1,6 @@
 # Hi there 👋 my name is Alex!
 
-Full stack software engineer, Flatiron graduate. Former Bar Director with Michelin standards.
+Full stack software engineer, former bar director with Michelin standards.
 
 Great problem solver who thrives on challenges.
 <!--
