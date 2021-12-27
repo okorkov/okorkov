@@ -3,6 +3,8 @@
 Full stack software engineer, former bar director with Michelin standards.
 
 Great problem solver who thrives on challenges.
+
+Software Engineer at Linkedin.
 <!--
  <p align="center"> 
     <a href="https://www.aokarkau.com" "><img src="https://img.shields.io/badge/-personal%20website-yellow" alt="aokarkau.com"></a>
