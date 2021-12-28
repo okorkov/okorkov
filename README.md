@@ -4,7 +4,7 @@ Full stack software engineer, former bar director with Michelin standards.
 
 Great problem solver who thrives on challenges.
 
-Software Engineer at Linkedin.
+Software Engineer @ ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <!--
  <p align="center"> 
     <a href="https://www.aokarkau.com" "><img src="https://img.shields.io/badge/-personal%20website-yellow" alt="aokarkau.com"></a>
