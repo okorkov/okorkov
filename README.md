@@ -72,9 +72,6 @@ A simple video to gif converted made during my time working at Linkedin for a co
 #### 📲 QR-menu.rest [GitHub Repo Front](https://github.com/okorkov/qr-menu-frontend) | [GitHub Repo Back](https://github.com/okorkov/qr-menu-backend) | [Website](https://qr-menu.rest/) 
 qr-menu.rest is an online platform that was designed for bars and restaurants to freely host their menus on the cloud with generated QR code that points at it, however, there are no limitations on who can use it. During the pandemic many restaurants switched from paper menus to digital and planning to keep using them since it is more convenient to make changes, more eco-friendly, and less expensive to maintain. There are a few other similar services out there but the significant difference is that qr-menu.rest is free of charge! That's right, as the hospitality industry struggled throughout covid, this platform been created with the intention of supporting bars and restaurants by giving them an ability to host their QR menus for free.
 
-#### 🪚 Iron Horse Studio Website [GitHub Repo](https://github.com/okorkov/iron-horse) | [Website](https://ironhorsestudio.net/) 
-A website built for Iron Horse woodwork studio with React + Ruby on Rails (admin panel)
-
 <h3 align="center"> Flatiron School Projects: </h3>
 
 #### 🛒 Shop Easy [GitHub Repo](https://github.com/okorkov/shop-easy) | [Deployed Version](https://shop-easy-online.web.app/) 
