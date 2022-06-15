@@ -66,7 +66,7 @@ Great problem solver who thrives on challenges.
 
 <h3 align="center">  Recent Projects: </h3>
 
-#### 📽 Gif-in [GitHub Repo Front](https://github.com/okorkov/go-gif) | [Website](https://gif-in.web.app/) 
+#### 📽 Gif-in [GitHub Repo Front](https://github.com/okorkov/go-gif) | [Website](https://gifin.co/) 
 A simple video to gif converted made during my time working at Linkedin for a convenience of displaying dynamic content in READMEs for pull requests. The main goal while creating it was to make it fast and efficient, no settings or choosing FPS as on most other platforms, gif-in was designed to convert video to gif gifhub friendly that will have a 1000px resulution and has a dynamic FPS based on the video's length (higher FPS for shorter videos). Under the hood I'm using ffmpeg library for processing videos.
 
 #### 📲 QR-menu.rest [GitHub Repo Front](https://github.com/okorkov/qr-menu-frontend) | [GitHub Repo Back](https://github.com/okorkov/qr-menu-backend)
