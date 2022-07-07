@@ -66,6 +66,9 @@ Great problem solver who thrives on challenges.
 
 <h3 align="center">  Recent Projects: </h3>
 
+#### 🏢 Kokopelli.by [GitHub Repo Front](https://github.com/okorkov/nadia-website) | [Website](https://kokopelli.by) 
+Kokopelli is an advertising studio based in Minsk, Belarus with over 10 years of experience in the advertising industry. The website is built to provide information about the company and showcase its portfolio via an image gallery. Gallery has been broken down into categories and sub-categories which are directly accessible through the navbar per customer's recommendations. Information on the website is currently supported in two languages - Russian and English.
+
 #### 📽 Gif-in [GitHub Repo Front](https://github.com/okorkov/go-gif) | [Website](https://gifin.co/) 
 A simple video to gif converted made during my time working at Linkedin for a convenience of displaying dynamic content in READMEs for pull requests. The main goal while creating it was to make it fast and efficient, no settings or choosing FPS as on most other platforms, gif-in was designed to convert video to gif gifhub friendly that will have a 1000px resulution and has a dynamic FPS based on the video's length (higher FPS for shorter videos). Under the hood I'm using ffmpeg library for processing videos.
 
