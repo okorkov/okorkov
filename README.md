@@ -69,7 +69,7 @@ Great problem solver who thrives on challenges.
 <h3 align="center">  Recent Projects: </h3>
 
 #### 🍔 Rmenu.org | [Website](https://rmenu.org) 
-RMenu is a web application that converts plain pdf menus into responsive web pages preserving original styling, with an ability to populate it with smart menu items with dietary preference filters and allergens, as well as the ability to create custom menu item filter specific to a certain kind of cuisines (eg. Gujarati food => Jane filter). The goal is to increase the transparency of menu items to end users and make the dining experience more convenient for people with food allergies and dietary restrictions.
+RMenu is a web application that converts plain pdf menus into responsive web pages preserving original styling, with an ability to populate it with smart menu items with dietary preference filters and allergens, as well as the ability to create custom menu item filter specific to a certain kind of cuisines (eg. Gujarati food => Jain filter). The goal is to increase the transparency of menu items to end users and make the dining experience more convenient for people with food allergies and dietary restrictions.
 
 #### 🏢 Kokopelli.by [GitHub Repo Front](https://github.com/okorkov/nadia-website) | [Website](https://kokopelli.by) 
 Kokopelli is an advertising studio based in Minsk, Belarus with over 10 years of experience in the advertising industry. The website is built to provide information about the company and showcase its portfolio via an image gallery. Gallery has been broken down into categories and sub-categories which are directly accessible through the navbar per customer's recommendations. Information on the website is currently supported in two languages - Russian and English.
